@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ismail Mahmud Nur
 =========================================================================================================================================
 
-B.Sc in Software Engineering | Researcher | Software Developer
---------------------------------------------------------------
+Researcher | Web Developer | Software Developer | B.Sc in Software Engineering
+--------------------------------------------------------------------------------
 
 I'm a Software Engineering student at East West University with a passion for coding, design, and art. My interests span a variety of fields, from Machine Learning to game development. I enjoy bringing ideas to life through planning and creating solutions, whether through apps, games, or web designs. Let's connect, collaborate, and code together!
 
