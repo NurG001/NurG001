@@ -1,39 +1,135 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ismail Mahmud Nur
-=========================================================================================================================================
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
-Researcher | Web Developer | Software Developer | B.Sc in Software Engineering
---------------------------------------------------------------------------------
+<div align="center">
 
-I'm a Software Engineering student at East West University with a passion for coding, design, and art. My interests span a variety of fields, from Machine Learning to game development. I enjoy bringing ideas to life through planning and creating solutions, whether through apps, games, or web designs. Let's connect, collaborate, and code together!
+  <!-- Animated waving hand with your name -->
+<h1 align="center">
+  Hi, I'm <a href="https://github.com/NurG001">Ismail Mahmud Nur</a> 
+  <img src="https://github.com/NurG001/mine/blob/main/animGif/Cute%20Robot.gif?raw=true" width="150" alt="waving hand" style="vertical-align: middle;" />
+</h1>
 
-* 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at [MyPortfolio](http://ismailmahmud999.my.canva.site/portfolio-ismail-mahmud-nur)
-* ✉️  You can contact me at [nurm0655@gmail.com](mailto:nurm0655@gmail.com)
+  <!-- Animated typing effect with custom gradient -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;System+Designer" alt="Typing SVG" />
+  </a>
 
-<a href="https://www.x.com/NurMahm999" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/NurMahm999?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+  <p>
+    <b>Researcher • Web Developer • Software Developer</b>
+  </p>
 
-### Skills
+  <p>
+    I'm a Software Engineering student at <b>East West University</b>, transforming ideas into meaningful digital experiences.<br />
+    Passionate about the intersection of <b>Artificial Intelligence</b> and robust <b>System Design</b>.
+  </p>
 
+  <!-- Animated badges with pulsing effect -->
+  <a href="mailto:nurm0655@gmail.com">
+    <img src="https://img.shields.io/badge/Hire_Me-0891b2?style=for-the-badge&logo=maildotru&logoColor=white" height="35" alt="Hire Me" />
+  </a>
+  <a href="https://github.com/NurG001/raw/main/Resume.pdf">
+    <img src="https://img.shields.io/badge/Download_CV-1c1917?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="35" alt="Download CV" />
+  </a>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+</div>
+
+<br/>
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,php&perline=6" height="45" alt="Languages" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bootstrap,html,css&perline=7" height="45" alt="Frameworks" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,oracle,mongodb,postgres&perline=5" height="45" alt="Databases" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,dotnet&perline=6" height="45" alt="Tools" />
+</div>
+
+<br/>
+
+## 🚀 Currently Exploring Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,redhat" height="50" alt="Cloud" />
 </p>
 
+---
 
-### Socials
+## 📊 The Command Center
 
-<p align="left"> <a href="https://www.facebook.com/nur.mahmud.547" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/NurG001" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/nurmahm999/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ismail-mahmud-368b922b3" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/NurMahm999" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@nurmahm999" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+<div align="center">
 
-### Badges
+  <a href="https://github.com/NurG001">
+    <img src="https://github-readme-stats.vercel.app/api?username=NurG001&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="160" alt="GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/NurG001">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurG001&layout=compact&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="160" alt="Top Languages" />
+  </a>
 
-<b>My GitHub Stats</b>
+  <br/>
 
-<a href="http://www.github.com/NurG001"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NurG001&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a href="https://github.com/NurG001">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NurG001&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="90%" alt="Streak Stats" />
+  </a>
 
-<a href="https://github.com/NurG001" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurG001&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
 
-<b>Top Repositories</b>
+<br/>
 
-<div width="100%" align="center"><a href="https://github.com/NurG001/CSE-366-3--2021-2-60-052" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NurG001&repo=CSE-366-3--2021-2-60-052&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/NurG001/CSE-347--6---2021-2-60-052" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NurG001&repo=CSE-347--6---2021-2-60-052&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+## 🗂️ Project Highlights
+
+<div align="center" style="width:100%">
+
+  <a href="https://github.com/NurG001/CSE-366-3--2021-2-60-052" style="float:left; width:45%;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NurG001&repo=CSE-366-3--2021-2-60-052&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Repo CSE-366" width="100%" />
+  </a>
+  <a href="https://github.com/NurG001/CSE-347--6---2021-2-60-052" style="float:right; width:45%;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NurG001&repo=CSE-347--6---2021-2-60-052&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Repo CSE-347" width="100%" />
+  </a>
+
+  <br style="clear:both" /><br />
+
+  <a href="https://github.com/NurG001/dr-shima-aesthetic-portfolio" style="float:left; width:45%;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NurG001&repo=dr-shima-aesthetic-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Repo Dr Shima Portfolio" width="100%" />
+  </a>
+  <a href="https://github.com/NurG001/OceanWorldV1.io" style="float:right; width:45%;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NurG001&repo=OceanWorldV1.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Repo OceanWorld" width="100%" />
+  </a>
+
+</div>
+
+<br style="clear:both" /><br />
+
+---
+
+## ✍️ Publications & Writing
+
+<p align="center">
+  I share articles about <b>AI, Machine Learning, and Software Engineering</b>.
+</p>
+
+<p align="center">
+  <a href="#" title="Medium">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="#" title="Dev.to">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h3>📬 Connect With Me</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/ismail-mahmud-368b220b7" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
+    <a href="https://github.com/NurG001" title="GitHub"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /></a>
+    <a href="https://x.com/NurMahmud999" title="Twitter"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" /></a>
+    <a href="https://facebook.com/nur.mahmud.547" title="Facebook"><img src="https://skillicons.dev/icons?i=facebook" height="40" alt="Facebook" /></a>
+    <a href="https://www.instagram.com" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" /></a>
+  </p>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
