@@ -1,10 +1,9 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 <div align="center">
-
+  <img src="https://github.com/NurG001/mine/blob/main/animGif/Cute%20Robot.gif?raw=true" width="150" alt="waving hand" style="vertical-align: middle;" />
   <h1 align="center">
     Hi, I'm <a href="https://github.com/NurG001">Ismail Mahmud Nur</a> 
-    <img src="https://github.com/NurG001/mine/blob/main/animGif/Cute%20Robot.gif?raw=true" width="150" alt="waving hand" style="vertical-align: middle;" />
   </h1>
 
   <a href="https://git.io/typing-svg">
@@ -41,15 +40,13 @@
   <img src="https://skillicons.dev/icons?i=mysql,oracle,mongodb,postgres&perline=5" height="45" alt="Databases" />
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,dotnet&perline=6" height="45" alt="Tools" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,redhat" height="50" alt="Cloud" />
 </div>
 
 <br/>
 
-## 🚀 Currently Exploring Cloud
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,redhat" height="50" alt="Cloud" />
-</p>
 
 ---
 
@@ -57,14 +54,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/NurG001">
-    <img src="https://github-readme-stats.vercel.app/api?username=NurG001&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="160" alt="General Stats" />
-  </a>
-  &nbsp;
-  
-  <a href="https://github.com/NurG001" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurG001&layout=compact&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" height="160" alt="Top Languages" />
-  </a>
+<a href="https://github.com/NurG001" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurG001&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" width="90%" alt="Top Languages" /></a>
 
   <br/>
 
@@ -78,27 +68,22 @@
 
 ## 🗂️ Project Highlights
 
-<div align="center" style="width:100%">
-
-  <a href="https://github.com/NurG001/CSE-366-3--2021-2-60-052" style="float:left; width:45%;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NurG001&repo=CSE-366-3--2021-2-60-052&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Repo CSE-366" width="100%" />
-  </a>
-  <a href="https://github.com/NurG001/CSE-347--6---2021-2-60-052" style="float:right; width:45%;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NurG001&repo=CSE-347--6---2021-2-60-052&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Repo CSE-347" width="100%" />
-  </a>
-
-  <br style="clear:both" /><br />
-
-  <a href="https://github.com/NurG001/dr-shima-aesthetic-portfolio" style="float:left; width:45%;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NurG001&repo=dr-shima-aesthetic-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Repo Dr Shima Portfolio" width="100%" />
-  </a>
-  <a href="https://github.com/NurG001/OceanWorldV1.io" style="float:right; width:45%;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NurG001&repo=OceanWorldV1.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Repo OceanWorld" width="100%" />
-  </a>
-
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/NurG001/dr-shima-aesthetic-portfolio">
+          <img src="https://raw.githubusercontent.com/NurG001/mine/main/project%20img/DrShima.jpg" alt="Dr Shima Portfolio" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/NurG001/OceanWorldV1.io">
+          <img src="https://raw.githubusercontent.com/NurG001/mine/main/project%20img/OceanWorld.jpg" alt="Ocean World" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<br style="clear:both" /><br />
 
 ---
 
