@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3169b6&height=120&section=header" width="100%" />
 
 <div align="center">
   <img src="https://github.com/NurG001/mine/blob/main/animGif/Cute%20Robot.gif?raw=true" width="150" alt="waving hand" style="vertical-align: middle;" />
