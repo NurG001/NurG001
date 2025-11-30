@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3169b6&height=120&section=header" width="100%" />
 
 <div align="center">
@@ -121,4 +122,5 @@
   </p>
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3169b6&section=footer&reversal=false&descAlign=50" width="100%" />
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
