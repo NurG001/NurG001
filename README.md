@@ -53,15 +53,29 @@
 
 ## 📊 The Command Center
 
+### 🛠️ Languages & Tools
+
 <div align="center">
 
-<a href="https://github.com/NurG001" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurG001&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" width="90%" alt="Top Languages" /></a>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 
-  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 
-  <a href="https://github.com/NurG001">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NurG001&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="90%" alt="Streak Stats" />
-  </a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NurG001&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" alt="GitHub Streak" /></a>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurG001&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
+</div>
 
 </div>
 
