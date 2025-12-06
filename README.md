@@ -38,8 +38,6 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bootstrap,html,css&perline=7" height="45" alt="Frameworks" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,oracle,mongodb,postgres&perline=5" height="45" alt="Databases" />
-  <br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,dotnet&perline=6" height="45" alt="Tools" />
   <br/>
   <img src="https://skillicons.dev/icons?i=aws,azure,redhat" height="50" alt="Cloud" />
@@ -86,12 +84,17 @@
 <div align="center">
   <table border="0" width="100%">
     <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/NurG001/dr-shima-aesthetic-portfolio">
-          <img src="https://raw.githubusercontent.com/NurG001/mine/main/project%20img/DrShima.jpg" alt="Dr Shima Portfolio" width="100%" />
+      <td width="33%" align="center">
+        <a href="https://github.com/NurG001/AAVA-Skincare-App">
+          <img src="https://raw.githubusercontent.com/NurG001/mine/main/project%20img/banner.png" alt="AAVA App" width="100%" />
         </a>
       </td>
-      <td width="50%" align="center">
+      <td width="33%" align="center">
+        <a href="https://github.com/NurG001/dr-shima-aesthetic-portfolio">
+          <img src="https://raw.githubusercontent.com/NurG001/mine/main/project%20img/DrShima.jpg" alt="Dr Shima" width="100%" />
+        </a>
+      </td>
+      <td width="33%" align="center">
         <a href="https://github.com/NurG001/OceanWorldV1.io">
           <img src="https://raw.githubusercontent.com/NurG001/mine/main/project%20img/OceanWorld.jpg" alt="Ocean World" width="100%" />
         </a>
