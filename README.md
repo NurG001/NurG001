@@ -106,6 +106,11 @@
           <img src="https://raw.githubusercontent.com/NurG001/mine/refs/heads/main/project%20img/HoodiesX_pr.jpg" alt="Ocean World" width="100%" />
         </a>
       </td>
+            <td width="33%" align="center">
+        <a href="https://github.com/NurG001/Syntecxhub_ExpenseTracker">
+          <img src="https://github.com/NurG001/mine/blob/main/project%20img/ExpenseTracker/banner.png" alt="Ocean World" width="100%" />
+        </a>
+      </td>
     </tr>
   </table>
 </div>
